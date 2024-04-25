@@ -28,11 +28,11 @@ views: This directory contains the different views or pages of the website.
 
 To run this portfolio website locally, follow these steps:
 
-Clone this repository to your local machine.
-Navigate to the project directory.
-Install dependencies by running npm install.
-Start the development server by running npm start.
-Open your browser and visit http://localhost:3000 to view the website.
+- Clone this repository to your local machine.
+- Navigate to the project directory.
+- Install dependencies by running npm install.
+- Start the development server by running npm start.
+- Open your browser and visit http://localhost:3000 to view the website.
 
 ## Screenshot Preview
 
